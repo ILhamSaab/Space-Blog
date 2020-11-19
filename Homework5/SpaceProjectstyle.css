@@ -1,0 +1,28 @@
+body{
+    background-color: #7ad0ec;
+}
+.paragraph{
+    padding-top: 15px;
+    pading-bottom: 30px;
+    padding-left: 25px;
+    margin-left: 20px;
+    width: inherit;
+}
+.Had{
+    text-align: center;
+    background-color: darkgreen;
+<!--width : 25px;-->
+}
+.CakeImage{
+    width: 30px;
+    height: auto;
+}
+.Shadow{
+    text-shadow: 1px 1px;
+}
+.div{
+    background-color: lightgreen;
+}
+.cursive{
+    font-family: cursive;
+}
